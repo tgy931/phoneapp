@@ -1,4 +1,0 @@
-phoneapp
-========
-
-develop by angularJs
